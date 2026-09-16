@@ -1,0 +1,4 @@
+interface:
+  display_name: "播客对话体精修"
+  short_description: "统一长播客分段文风，检测漂移并驱动失败分段迭代重写"
+  default_prompt: "Use $refine-podcast-dialogue 检查并修复这篇长播客文章的对话现场感与跨分段文风漂移。"

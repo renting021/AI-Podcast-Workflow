@@ -1,0 +1,16 @@
+{
+  "source_url": "",
+  "source_type": "youtube_or_xiaoyuzhou",
+  "title": "",
+  "language": "zh",
+  "duration_seconds": null,
+  "status": "created",
+  "created_at": "",
+  "style_mode": "interview_dialogue",
+  "style_contract_version": "1.0.0",
+  "max_revision_iterations": 3,
+  "current_iteration": 0,
+  "dialogue_quality_status": "not_run",
+  "style_feedback_pending": false,
+  "approved_for_publish": false
+}

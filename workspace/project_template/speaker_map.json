@@ -1,0 +1,17 @@
+{
+  "source": "transcript.jsonl",
+  "speakers": [
+    {
+      "role": "主持人",
+      "name": "",
+      "confidence": "unknown",
+      "evidence": []
+    },
+    {
+      "role": "嘉宾",
+      "name": "",
+      "confidence": "unknown",
+      "evidence": []
+    }
+  ]
+}

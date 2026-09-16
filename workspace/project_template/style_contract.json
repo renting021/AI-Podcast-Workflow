@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "mode": "interview_dialogue",
+  "style_reference": "",
+  "speaker_labels": ["主持人", "嘉宾"],
+  "allow_named_speakers_only_when_confidence": "high",
+  "segment_overlap_seconds": 90,
+  "min_dialogue_density_per_1000_chars": 0.45,
+  "min_global_dialogue_signal_share": 0.55,
+  "max_revision_iterations": 3,
+  "narrative_exempt_sections": ["摘要", "嘉宾介绍", "来源", "关键观点", "编辑说明"]
+}
